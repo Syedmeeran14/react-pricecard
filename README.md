@@ -7,3 +7,4 @@ Component Reusablility.
 Sending props and Object Destructuring.
 Conditional Rendering.
 
+Deployed url : https://earnest-meringue-be48a5.netlify.app
